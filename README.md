@@ -1,7 +1,9 @@
 # Project-Archiver UPDATED
 
-Improvments over main branch
+Improvments over main branch: 
+
 Automatically does not save fusion file if there is no bodies in the file which will cause an error.
+
 Automtically closes file after being exported. 
 
 The archiver script will open all Fusion 360 3D data in a project and export it as STEP to a local location of your choosing. 
