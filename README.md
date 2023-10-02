@@ -1,4 +1,9 @@
-# Project-Archiver
+# Project-Archiver UPDATED
+
+Improvments over main branch
+Automatically does not save fusion file if there is no bodies in the file which will cause an error.
+Automtically closes file after being exported. 
+
 The archiver script will open all Fusion 360 3D data in a project and export it as STEP to a local location of your choosing. 
 
 [How to install](#How-to-install)  
@@ -8,11 +13,8 @@ The archiver script will open all Fusion 360 3D data in a project and export it 
 ----
 
 ### How to install<a name="How-to-install"></a>
-1. Click the latest link and download the [latest distribution](https://github.com/tapnair/Project-Archiver/blob/master/dist/Project-Archiver.zip)
 
-*Note you should download from the link above.  The regular git downloads won't get the apper submodule*
-
-2. Unzip the archive to a permanent location on your computer
+1. Unzip the archive to a permanent location on your computer
 
 ### Fusion 360  
 
